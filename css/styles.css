@@ -1,0 +1,17 @@
+body {
+  background-image: url("img/candy.jpg");
+    text-align: center;
+}
+
+
+h1 {
+  color: magenta;
+  font-family: frijole;
+  text-align: center;
+  font-size: 200px;
+}
+
+
+h2 {
+  font-size: 100px;
+}
